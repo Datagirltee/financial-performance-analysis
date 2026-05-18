@@ -24,8 +24,6 @@ The dataset used for this project is a financial dataset containing transaction 
 
 \## Key Insights
 
-
-
 The analysis showed that 2024 was the only year the company operated within its allocated budget, while 2022 and 2023 recorded budget overruns and negative profitability. During these years, expenses exceeded revenue, resulting in losses of \*\*-0.4M\*\* and \*\*-1.4M\*\* respectively. However, 2024 recorded an improvement, with a positive profit of \*\*0.30M\*\* as revenue exceeded expenses.
 
 
@@ -48,8 +46,6 @@ Revenue analysis also revealed that \*\*SaaS Revenue\*\* was the company’s dom
 
 \## Conclusion
 
-
-
 This project provides a clear overview of financial performance across revenue, expenses, and budgeting, highlighting key trends, cost drivers, and areas requiring improved budget control.
 
 
@@ -64,15 +60,11 @@ This project provides a clear overview of financial performance across revenue, 
 
 \### Financial Overview Dashboard
 
-
-
 !\[Financial Overview](Dashboard\_images/Financial\_overview.png)
 
 
 
 \### Expense Analysis Dashboard
-
-
 
 !\[Expense Analysis](Dashboard\_images/Expense\_analysis.png)
 
@@ -80,7 +72,5 @@ This project provides a clear overview of financial performance across revenue, 
 
 \### Insights \& Recommendations
 
-
-
-!\[Insights Page](Dashboard\_images/Insights\_page.png)
+!\[Insights Page](Dashboard\_images/Insights.png)
 
