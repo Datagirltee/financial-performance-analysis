@@ -1,3 +1,7 @@
+\# Financial Performance Analysis Dashboard
+
+
+
 \## Project Objective
 
 The objective of this project was to analyze the company’s financial performance by evaluating revenue, expenses, profitability, budget variance, and spending patterns across different years, months, departments, and vendors. The dashboard was designed to provide insights into financial alignment, budget adherence, and key expense drivers to support better financial decision-making.
@@ -22,7 +26,7 @@ The dataset used for this project is a financial dataset containing transaction 
 
 
 
-The analysis showed that 2024 was the only year the company operated within its allocated budget, while 2022 and 2023 recorded budget overruns and negative profitability. During these years, expenses exceeded revenue, resulting in losses of \*\*-0.4M\*\* and \*\*-1.4M\*\* respectively. However, 2024 recorded an improvement, with a positive profit of \*\*0.30M\*\* as revenue exceeded expenses.
+The analysis showed that 2024 was the only year the company operated within its allocated budget, while 2022 and 2023 recorded budget overruns and negative profitability. During these years, expenses exceeded revenue, resulting in losses of -0.4M and -1.4M respectively. However, 2024 recorded an improvement, with a positive profit of 0.30M as revenue exceeded expenses.
 
 
 
@@ -30,15 +34,15 @@ Monthly analysis revealed that spending remained largely within budget in Januar
 
 
 
-Variance analysis further showed that only the \*\*General \& Administrative\*\* category stayed within budget, retaining approximately \*\*1.2M\*\* of allocated funds. In contrast, \*\*Research \& Development\*\*, \*\*Customer Support\*\*, and \*\*Sales \& Marketing\*\* exceeded their respective budgets.
+Variance analysis further showed that only the General \& Administrative category stayed within budget, retaining approximately 1.2M of allocated funds. In contrast, Research \& Development, Customer Support, and Sales \& Marketing exceeded their respective budgets.
 
 
 
-Vendor analysis identified \*\*ADP\*\*, \*\*United Health\*\*, and \*\*Hardware Inc\*\* as the top recipients of company spending, with ADP accounting for the highest expense at approximately \*\*10.6M\*\*. Additionally, \*\*Salary \& Wages\*\* represented the company’s largest expense category, totaling approximately \*\*8.6M\*\*.
+Vendor analysis identified ADP, United Health, and Hardware Inc as the top recipients of company spending, with ADP accounting for the highest expense at approximately 10.6M. Additionally, Salary \& Wages represented the company’s largest expense category, totaling approximately 8.6M.
 
 
 
-Revenue analysis also revealed that \*\*SaaS Revenue\*\* was the company’s dominant source of income at approximately \*\*14.3M\*\*, followed by Product Revenue and Interest Income.
+Revenue analysis also revealed that SaaS Revenue was the company’s dominant source of income at approximately 14.3M, followed by Product Revenue and Interest Income.
 
 
 
