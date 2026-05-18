@@ -84,5 +84,3 @@ This project provides a clear overview of financial performance across revenue, 
 
 !\[Insights Page](Dashboard\_images/Insights\_page.png)
 
-
-
