@@ -50,23 +50,37 @@ Revenue analysis also revealed that \*\*SaaS Revenue\*\* was the company’s dom
 
 
 
-This analysis provided a clear overview of the company’s financial performance across revenue, expenses, and budgeting. It revealed key trends in spending, profitability challenges in earlier years, and improved performance in 2024. Overall, the dashboard supports better financial decision-making by highlighting major cost drivers, revenue sources, and areas requiring budget control.
+This project provides a clear overview of financial performance across revenue, expenses, and budgeting, highlighting key trends, cost drivers, and areas requiring improved budget control.
 
 
 
-\## Dashboard Preview 
-
-\### Financial Overview Dashboard 
-
-!\[Financial Overview](Dashboard\_images/Financial\_overview.png) 
-
-\### Expense Analysis Dashboard 
-
-!\[Expense Analysis](Dashboard\_images/Expense\_analysis.png) 
-
-\### Insights \& Recommendations 
-
-!\[Insights Page](Dashboard\_images/Insights\_page.png)
+\---
 
 
+
+\## Dashboard Preview
+
+
+
+\### Financial Overview Dashboard
+
+
+
+!\[Financial Overview](Dashboard\_images/Financial\_overview.png)
+
+
+
+\### Expense Analysis Dashboard
+
+
+
+!\[Expense Analysis](Dashboard\_images/Expense\_analysis.png)
+
+
+
+\### Insights \& Recommendations
+
+
+
+!\[Insights Page](Dashboard\_images/Insights.png)
 
